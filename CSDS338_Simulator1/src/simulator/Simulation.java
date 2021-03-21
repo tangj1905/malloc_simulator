@@ -5,7 +5,7 @@ import java.io.*;
 /**
  * Our main simulation class, which broadly handles allocation, deallocation, outputs, etc...
  * 
- * @authors sjw103, jgt31
+ * @author sjw103, jgt31
  */
 public class Simulation {
 	
