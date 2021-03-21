@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * Class that handles requests for a block of memory.
  * 
- * @authors sjw103, jgt31
+ * @author sjw103, jgt31
  */
 public class Requests {
 
